@@ -9,7 +9,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view Live: **[click here](https://the-simplefolio.netlify.app/)**
+To view Live: **[click here](https://corneldev.netlify.app/)**
 
 `Technologies used 🛠️`
 
