@@ -24,6 +24,7 @@ To view Live: **[click here](https://the-simplefolio.netlify.app/)**
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 `Acknowledgments 🎁`
-Author **[Jacobo Martinez](https://github.com/cobidev)**
+Author **[Jacobo Martinez]
+(https://github.com/cobidev)**
 
 Givivng back to the dev community: [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
