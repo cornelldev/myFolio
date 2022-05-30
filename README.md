@@ -26,4 +26,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 `Acknowledgments 🎁`
 Author **[Jacobo Martinez](https://github.com/cobidev)**
 
-Givivng back to the dev community: [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+Giving back to the dev community: [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
